@@ -161,6 +161,6 @@ hft-research-platform/
 
 ## 🤝 Contact
 
-📧 **arasghorbani9090@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/arasghorbani)
+📧 **arasghorbani9090@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/aras-ghorbani-ab1a7b62)
 
 <div align="center"><sub>Public architecture & docs. Strategy logic and source are proprietary.</sub></div>
