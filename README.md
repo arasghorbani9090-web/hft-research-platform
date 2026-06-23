@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/banner.png" alt="HFT Research Platform" width="100%" />
+
 # ⚡ HFT Research Platform
 
 ### Evolutionary strategy generation & market-microstructure simulation.
